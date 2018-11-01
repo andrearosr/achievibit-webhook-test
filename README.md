@@ -1,2 +1,2 @@
 # achievibit-webhook-test
-Test achievements
+Test achievements are correctly granted
